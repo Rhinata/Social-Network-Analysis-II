@@ -17,26 +17,26 @@
    
    6- Considere as seguintes métricas relacionadas a SNA:
 
-    I. Excentricidade
+   I. Excentricidade
 
-    II. Closeness
+   II. Closeness
 
-    III. Clustering Coefficient
+   III. Clustering Coefficient
 
-    IV. Diâmetro da Rede
-
-    Assinale a alternativa correta a respeito das métricas I, II, III e IV.
-    Todas correspondem a métricas dos nós.
+   IV. Diâmetro da Rede
+   
+   Assinale a alternativa correta a respeito das métricas I, II, III e IV.
+   Todas correspondem a métricas dos nós.
     
-    7- No contexto de SNA, assinale a alternativa que define corretamente o conceito da métrica Degree.
-    É o número de conexões que determinado ponto possui.
+   7- No contexto de SNA, assinale a alternativa que define corretamente o conceito da métrica Degree.
+   É o número de conexões que determinado ponto possui.
     
-    8- Considerando o contexto de comunidades em SNA, assinale a única opção VERDADEIRA.
-    Um nó pode ter conexões com indivíduos de outras comunidades
+   8- Considerando o contexto de comunidades em SNA, assinale a única opção VERDADEIRA.
+   Um nó pode ter conexões com indivíduos de outras comunidades
     
-    9- No contexto de SNA, o que é o comprimento médio de um caminho em uma rede?
-    É o número médio de passos que um nó qualquer percorre para chegar em qualquer outro nó da rede.
+   9- No contexto de SNA, o que é o comprimento médio de um caminho em uma rede?
+   É o número médio de passos que um nó qualquer percorre para chegar em qualquer outro nó da rede.
     
-    10- O que é a densidade do grafo em uma rede?
-    É a medida que determina o percentual de conexões que existem dentre todas as que poderiam existir em uma rede.
+   10- O que é a densidade do grafo em uma rede?
+   É a medida que determina o percentual de conexões que existem dentre todas as que poderiam existir em uma rede.
     
