@@ -44,7 +44,7 @@
     
    9- No contexto de SNA, o que é o comprimento médio de um caminho em uma rede?
    
-   É o número médio de passos que um nó qualquer percorre para chegar em qualquer outro nó da rede.
+   É a média de passos que se daria, na rede em questão, para sair de um ponto e chegar em qualquer outro ponto na rede.
     
    10- O que é a densidade do grafo em uma rede?
    
