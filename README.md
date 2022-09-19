@@ -49,4 +49,21 @@
    10- O que é a densidade do grafo em uma rede?
    
    É a medida que determina o percentual de conexões que existem dentre todas as que poderiam existir em uma rede.
+   
+   11- No contexto de SNA, o que é a métrica Clustering Coefficient?
+   
+   É o percentual composto pela divisão da quantidade de conexões que existe pela quantidade que poderia existir em um determinado nó.
+   
+   12- No contexto de SNA, o que é Degree Ponderado?
+   
+   É o número de conexões que determinado ponto possui, levando em conta o peso do relacionamento.
+   
+   13- No contexto de SNA, o que é Degree out?
+   
+   É o número de conexões que determinado nó faz (sai dele e chega em algum nó).
+   
+   14- No contexto de SNA, o que é o diâmetro de uma rede?
+   
+   É a quantidade exata de passos que um determinado individuo percorre para chegar em qualquer outro, a partir dos menores caminhos.
+   
     
